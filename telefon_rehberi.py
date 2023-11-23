@@ -1,7 +1,7 @@
-# telefon rehberi uygulamasi
+# Telefon Rehberi Uygulamasi
 # Bu odevde bir telefon rehberi simulasyonu yapmanizi istiyoruz.
-# Program acildiginda kullaniciya, rehbere kisi ekleme, kisi silme, kisi isim ya da tel bilgisi guncelleme,
-# rehberi listeleme seceneklerini sunun. Kullanicinin secimine gore gerekli inputlarla programinizi sekillendirin.
+# Program acildiginda kullaniciya, rehbere kisi ekleme, kisi silme, kisi isim ya da tel bilgisi guncelleme,rehberi listeleme seceneklerini sunun.
+# Kullanicinin secimine gore gerekli inputlarla programinizi sekillendirin.
 # Olusturulan rehberi bir dosyaya kaydedin.
 # Rehberi olustururken sozlukleri kullanin.
 
